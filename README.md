@@ -1,5 +1,7 @@
 # CannyEdgeFilter
 
+U can test cannoy edge filter using your webcam.
+
 ## Usage
 ```
 docker build . -t cannoy:1.0
